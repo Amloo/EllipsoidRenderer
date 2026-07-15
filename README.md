@@ -1,0 +1,1 @@
+This was an attempt to recreate the ellipsoid based rendering engine from Ecstatica. Obviously Python was a poor choice of language and it runs really slow. I chose Python because I originaly tried this project in a Python focused class and I thought it woul  be fun to restart and finish it.
